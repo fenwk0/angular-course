@@ -28,6 +28,7 @@ Chrome - Augury
 - Angular extebds HTML with tags
 - React is jsx which looks like HTML but compiles to html
 - Pollfill is supporting old browser i.e. Polyfill
+- enable ECMA6 in IntelliJ so that code in text is parsed
 
 ## Useful links
 
