@@ -38,10 +38,10 @@ Chrome - Augury
 - Quick Start https://angular.io/guide/quickstart
 - Online Dev stackblitz.com
 - Angular Stylists
--- https://toddmotto.com/
--- https://johnpapa.net/angular-style-guide/
--- http://www.typescriptlang.org/
--- Learning java script https://developer.mozilla.org/en-US/
+- https://toddmotto.com/
+-  * https://johnpapa.net/angular-style-guide/
+-  * http://www.typescriptlang.org/
+- Learning java script https://developer.mozilla.org/en-US/
 
 
 
