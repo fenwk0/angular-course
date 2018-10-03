@@ -27,6 +27,7 @@ Chrome - Augury
 - HttpModules, Testing
 - Angular extebds HTML with tags
 - React is jsx which looks like HTML but compiles to html
+- Pollfill is supporting old browser i.e. Polyfill
 
 ## Useful links
 
@@ -39,6 +40,8 @@ Chrome - Augury
 - Angular Stylists
 -- https://toddmotto.com/
 -- https://johnpapa.net/angular-style-guide/
+-- http://www.typescriptlang.org/
+-- Learning java script https://developer.mozilla.org/en-US/
 
 
 
