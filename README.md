@@ -43,5 +43,6 @@ Chrome - Augury
 - http://www.typescriptlang.org/
 - Learning java script https://developer.mozilla.org/en-US/
 - Check if you can use a framework https://caniuse.com/
+- Typescript 6 {ECMA6 } : http://kangax.github.io/compat-table/es6/
 
 
