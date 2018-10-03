@@ -5,6 +5,11 @@
 - Install node
 - Install angular cli
 
+## Create
+
+ng new hello-world
+- e2e is testing
+
 
 ## Dev Software
 Node.js - npm/yarn
@@ -31,4 +36,9 @@ Chrome - Augury
 - Angular CLI : https://cli.angular.io/
 - Quick Start https://angular.io/guide/quickstart
 - Online Dev stackblitz.com
+- Angular Stylists
+-- https://toddmotto.com/
+-- https://johnpapa.net/angular-style-guide/
+
+
 
