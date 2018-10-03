@@ -45,5 +45,6 @@ Chrome - Augury
 - Check if you can use a framework https://caniuse.com/
 - Typescript 6 {ECMA6 } : http://kangax.github.io/compat-table/es6/
 - Cheat Sheet https://angular.io/guide/cheatsheet
+- Emmet RAD https://emmet.io/
 
 
