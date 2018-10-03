@@ -29,4 +29,5 @@ Chrome - Augury
 - Updating bewteen major versions : https://angular.io/guide/updating
 - https://materializecss.com/
 - Angular CLI : https://cli.angular.io/
+- Quick Start https://angular.io/guide/quickstart
 
