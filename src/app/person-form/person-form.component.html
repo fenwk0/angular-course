@@ -1,0 +1,25 @@
+<div>
+  <h1>Person Form</h1>
+  <form novalidate (ngSubmit)="onSubmit()" #f="ngForm">
+    <div *ngIf="f.controls.name?.errors && f.controls.name?.touched" class="error">
+      Name is required
+    </div>
+    {{ f.controls.name?.errors | json }}
+    <div class="form.group">
+      <label for="name">name</label>
+      <input  type="text"
+              class="form-control"
+              id="name"
+              required
+              [(ngModel)]="name"
+              name="name"
+              #spy />
+              <br>{{ spy.classname }}
+    </div>
+    <button type="submit" 
+            class="btn-success" 
+            [disabled]="f.invalid">
+        Submit
+    </button>
+  </form>
+</div>

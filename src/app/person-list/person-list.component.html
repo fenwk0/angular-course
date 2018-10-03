@@ -1,5 +1,7 @@
 <ul>
-  <li *ngFor="let n of names">
-    <app-person-item [name]="n"></app-person-item>
+  <li *ngFor="let name of names">
+    <app-person-item [name]="name"></app-person-item>
   </li>
+
+  <app-person-form (nameChangedEvent)="addName($event)"></app-person-form>
 </ul>

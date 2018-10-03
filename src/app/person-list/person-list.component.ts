@@ -16,4 +16,10 @@ export class PersonListComponent implements OnInit {
   ngOnInit() {
   }
 
+
+  addName(event : string) : void  {
+    console.log(event);
+    this.names.push(event);
+
+  }
 }
