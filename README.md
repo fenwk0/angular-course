@@ -1,5 +1,11 @@
 # angular-course
 
+## Startup
+
+- Install node
+- Install angular cli
+
+
 ## Dev Software
 Node.js - npm/yarn
 VSCode - debugging
@@ -20,5 +26,7 @@ Chrome - Augury
 ## Useful links
 
 - https://chrome.google.com/webstore/search/augury?hl=en-US
-- https://angular.io/guide/updating
+- Updating bewteen major versions : https://angular.io/guide/updating
 - https://materializecss.com/
+- Angular CLI : https://cli.angular.io/
+
