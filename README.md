@@ -29,6 +29,7 @@ Chrome - Augury
 - React is jsx which looks like HTML but compiles to html
 - Pollfill is supporting old browser i.e. Polyfill
 - enable ECMA6 in IntelliJ so that code in text is parsed
+- Learn Flexbox and CSS grid
 
 ## Useful links
 
@@ -47,5 +48,7 @@ Chrome - Augury
 - Typescript 6 {ECMA6 } : http://kangax.github.io/compat-table/es6/
 - Cheat Sheet https://angular.io/guide/cheatsheet
 - Emmet RAD https://emmet.io/
+- Bootstrap examples https://getbootstrap.com/docs/4.0/examples/
+- JSON server https://github.com/typicode/json-server
 
 
