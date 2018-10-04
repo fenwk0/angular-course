@@ -50,5 +50,6 @@ Chrome - Augury
 - Emmet RAD https://emmet.io/
 - Bootstrap examples https://getbootstrap.com/docs/4.0/examples/
 - JSON server https://github.com/typicode/json-server
+- Redux Author https://github.com/gaearon
 
 
